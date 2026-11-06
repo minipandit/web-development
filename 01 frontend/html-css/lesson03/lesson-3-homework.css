@@ -1,0 +1,136 @@
+.uber-button{
+    background-color: black;
+    color: white;
+    border: none;
+    height: 36px;
+    width: 100px;
+    font-size: smaller;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.uber-button:hover{
+    opacity: 0.8;
+}
+
+
+.amazon-button{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border: none;
+    height: 36px;
+    width: 150px;
+    margin-right: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+.amazon-button:hover{
+    background-color: rgb(236, 197, 0);
+}
+
+.github{
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 80px;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: box shadow 0.15s;
+}
+.github:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+
+}
+
+.bootstrap{
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 115px;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.15s;
+}
+.bootstrap:hover{
+    background-color: rgb(111, 75, 165);
+}
+
+.bootstrap2{
+    background-color: white;
+    color: rgb(108, 117, 125);
+    border-color: rgb(108, 117, 125);
+    height: 36px;
+    width: 115px;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px;
+    border-style: solid;
+    transition: background-color 0.15s, color 0.15s;
+}
+.bootstrap2:hover{
+    background-color: rgb(108, 117, 125);
+    color: white;
+}
+
+.linkdin{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    height: 36px;
+    width: 200px;
+    margin-right: 10px;
+    border-radius: 30px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-top: 20px;
+    border: none;
+    transition: background-color 0.15s;
+}
+.linkdin:hover{
+    background-color: rgb(10, 92, 174);
+}
+
+.linkdin2{
+    color: rgb(10, 102, 194);
+    border-color: rgb(9, 55, 101);
+    background-color: white;
+    height: 36px;
+    width: 80px;
+    margin-right: 10px;
+    border-radius: 30px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-top: 20px;
+    border-style: solid;
+}
+.linkdin2:hover{
+    background-color: rgb(180, 216, 252);
+}
+
+.header{
+    font-size: larger;
+    font-weight: bolder;
+}
+.line1{
+    color: rgb(0, 118, 0);
+    font-weight: bolder;
+}
+.amazon-buynow{
+    background-color: rgb(255, 164, 28);
+    color: black;
+    border: none;
+    height: 36px;
+    width: 150px;
+    margin-right: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+}

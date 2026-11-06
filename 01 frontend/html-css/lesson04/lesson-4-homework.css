@@ -1,0 +1,220 @@
+.uber-button{
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: smaller;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    vertical-align:top;
+}
+.uber-button:hover{
+    opacity: 0.8;
+}
+
+
+.amazon-button{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border: none;
+    margin-right: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    vertical-align:top;
+}
+.amazon-button:hover{
+    background-color: rgb(236, 197, 0);
+}
+
+.github{
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    vertical-align:top;
+}
+.github:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+
+}
+
+.bootstrap{
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.15s;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    vertical-align:top;
+}
+.bootstrap:hover{
+    background-color: rgb(111, 75, 165);
+}
+
+.bootstrap2{
+    background-color: white;
+    color: rgb(108, 117, 125);
+    border-color: rgb(108, 117, 125);
+    margin-right: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px;
+    border-style: solid;
+    transition: background-color 0.15s, color 0.15s;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    vertical-align:top;
+}
+.bootstrap2:hover{
+    background-color: rgb(108, 117, 125);
+    color: white;
+}
+
+.linkdin{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    margin-right: 10px;
+    border-radius: 30px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-top: 20px;
+    border: none;
+    transition: background-color 0.15s;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    vertical-align:top;
+}
+.linkdin:hover{
+    background-color: rgb(10, 92, 174);
+}
+
+.linkdin2{
+    color: rgb(10, 102, 194);
+    border-color: rgb(9, 55, 101);
+    background-color: white;
+    margin-right: 10px;
+    border-radius: 30px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-top: 20px;
+    border-style: solid;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    vertical-align:top;
+}
+.linkdin2:hover{
+    background-color: rgb(180, 216, 252);
+}
+
+.header{
+    font-size: larger;
+    font-weight: bolder;
+}
+.line1{
+    color: rgb(0, 118, 0);
+    font-weight: bolder;
+}
+.amazon-buynow{
+    background-color: rgb(255, 164, 28);
+    color: black;
+    border: none;
+    margin-right: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    vertical-align:top;
+}
+
+    .back, .next{
+    background-color: rgb(242, 242, 242);
+    border-color: grey;
+    margin: 10px;
+    padding: 5px;
+    border-style:solid;
+    border-radius: 2px;
+    border-width: 1px;
+}
+
+.link{
+    margin: 2px;
+}
+
+.button{
+    background-color: green;
+    color: white;
+    border: none;
+    padding-inline: 15px;
+    padding-block: 5px;
+    margin: 10px;
+    cursor: pointer;;
+    transition: padding-inline 0.5s, padding-block 0.5s;
+}
+
+.shadow{
+    background-color: green;
+    color: white;
+    border: none;
+    padding-inline: 15px;
+    padding-block: 5px;
+    margin: 10px;
+    cursor: pointer;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+    transition: box-shadow 0.15s;
+}
+
+.buttons{
+    background-color: green;
+    color: white;
+    border: none;
+    padding-inline: 15px;
+    padding-block: 5px;
+    margin: 10px;
+    cursor: pointer;;
+    transition: padding-inline 0.15s;
+}
+
+.stretch:hover{
+    padding-inline: 30px;
+    padding-block: 10px;
+}
+.shadow:active{
+    box-shadow: none;
+}
+
+.hov:hover{
+    padding-inline: 30px;
+}

@@ -1,0 +1,213 @@
+.p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.tahoma-font{
+    font-family: Tahoma;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-top: 0;  
+}
+
+.deals-text{
+    font-family: Arial;
+    font-weight: 20px;
+    font-weight: bolder;
+    margin-bottom: 5px;
+    margin-top: 0;  
+}
+.sale-end-text{
+    font-family: Arial;
+    font-weight: 20px;
+    font-style: italic;
+    color: red;
+    margin-top: 0;  
+    margin-bottom: 50px;
+}
+
+.course-title{
+    font-family: Verdana;
+    font-weight: 20px;
+    font-weight: bolder;
+    margin-top: 0;  
+    margin-bottom: 2px;
+}
+
+.course-subtitle{
+    font-family: Verdana;
+    font-weight: 20px;
+    color: grey;
+    margin-top: 0;  
+    margin-bottom: 10px;
+}
+
+.course-text{
+    font-family: Verdana;
+    font-weight: 20px;
+    margin-top: 0;  
+    line-height: 20px;
+    width: 280px;
+}
+
+.get-started-button{
+    background-color: rgb(0, 141, 0);
+    color: white;
+    padding-inline: 15px;
+    padding-block: 5px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+.shopping-title{
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 5px;
+
+}
+
+.shopping-text{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.shopping-link{
+    text-align: center;
+    color: rgb(1, 137, 205);
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+.new-text{
+    font-family: arial;
+    font-size: 15px;
+    color: red;
+    margin-top: 0;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.mac-book-text{
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.supercharged-text{
+    font-family: arial;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.dollars-text{
+    font-family: arial;
+    font-size: 15px;
+    margin-top: 0;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.buy-button{
+    background-color: rgb(46, 90, 248);
+    color: white;
+    padding-inline: 17px;
+    padding-block: 8px;
+    border-radius: 15px;
+    border:none;
+    display: block;
+    margin-inline: auto;
+    margin-bottom: 50px;
+}
+
+.amount{
+    font-family: arial;
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.currency{
+    font-family: arial;
+    color: grey;
+    font-size: 15px;
+    margin-top: 0;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.stats{
+    font-family: arial;
+    color: green;
+    font-size: 15px;
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: -8px;
+}
+
+.after-hours-text{
+    font-family: arial;
+    color: grey;
+    font-size: 15px;
+    display: inline-block;
+    margin-top: -8px;
+    margin-bottom: 0px;
+}
+
+.reduced-stats{
+    font-family: arial;
+    color: red;
+    font-size: 15px;
+    display: inline-block;
+    margin-top: -8px            ;
+    margin-bottom: 0px;
+}   
+
+.code-camp-org{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 15px;
+    display: inline-block;
+    margin-top: 50px;
+    margin-bottom: 0px;    
+}
+
+.code-camp-time{
+    font-family: arial;
+    font-size: 15px;
+    color: grey;
+    display: inline-block;
+    margin-top: 50px;
+    margin-bottom: 0px;   
+}
+
+.code-camp-text{
+    font-family: arial;
+    font-size: 15px;
+    width: 480px;
+    line-height: 18px;
+    margin-top: -10px;
+    margin-bottom: 0;
+}
+
+.more-text{
+    font-family: arial;
+    font-size: 15px;
+    margin-top: 10pz;
+    margin-bottom: 0x;
+}
+
+.chp{
+    color: rgb(1, 131, 230);
+}
