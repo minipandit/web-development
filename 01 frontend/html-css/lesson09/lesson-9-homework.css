@@ -1,0 +1,91 @@
+.square{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin-bottom: 50px;
+}
+
+.circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    background-color: green;
+    margin-bottom: 50px;
+}
+
+.service-box{
+    display: inline-block;
+    border: 1px solid grey;
+    width: 300px;
+    padding-inline: 20px;
+    padding-block: 15px;
+    margin-bottom: 50px;
+}
+
+.youtube-music{
+    width: 350px;
+    padding-block: 5px;
+    padding-inline: 10px;
+    background-color: rgb(42, 42, 42);
+    margin-bottom: 50px;
+}
+
+.install-title{
+    font-family: arial;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.install-text{
+    font-family: arial;
+    color: grey;
+}
+
+.profile{
+    display: inline-block;
+    width: 200px;
+    margin-left: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.pfp-pic{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 12px;
+}
+
+.name{
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    border-color: black;
+    margin-bottom: 5px;
+    margin-top: 0;
+    margin-left: 5px;
+}
+
+.friends{
+    font-family: arial;
+    font-size: 15px;
+    color: grey;   
+    margin-top: 0px;
+    margin-bottom: 0;
+    margin-left: 5px;
+}
+
+.add-friend-button{
+    background-color: rgb(2, 83, 224);
+    color: white;
+    font-family: arial;
+    padding-inline: 20px;
+    padding-block: 10px;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+
+}
