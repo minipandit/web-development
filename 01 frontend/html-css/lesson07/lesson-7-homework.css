@@ -1,0 +1,111 @@
+.image-1{
+    width: 200px;
+    border-radius: 20px;
+    margin-right: 50px;
+}
+
+.image-2{
+    width: 200px;
+    height: 200px;
+    object-position: center;
+    margin-left: 0px;
+    margin-right: 50px;
+}
+
+.image-3{
+    width: 200px;
+    height: 200px;
+    object-position: center;
+    margin-left: 0px;
+    margin-right: 50px;
+    border-radius: 200px;
+}
+
+.search-bar-1{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border-style: solid;
+    margin-left: 0px;
+    margin-right: 50px;
+}
+
+.search-bar-2{
+    width: 400px;
+    height: 25px;
+    border-radius: 15px;
+    border-style: solid;
+    margin-left: 0px;
+    margin-right: 50px;   
+    margin-block: 50px;
+}
+
+.heading{
+    font-family: arial;
+    color: grey;
+    font-size: 12px;
+    margin-inline: 20px;
+    margin-block: 8px;
+    text-align: left;
+}
+
+.search-bar-3{
+    width: 300px;
+    height: 25px;
+    margin-inline: 20px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.terms-and-conditions{
+    font-family: arial;
+    color: grey;
+    font-size: 12px;
+    margin-inline: 20px;
+    margin-block: 8px;
+    text-align: left;
+}
+
+.agree-button{
+    background-color: rgb(2, 88, 227);
+    color: white;
+    margin-inline: 20px;
+    margin-block: 8px;
+    border: none;
+    border-radius: 30px;
+    padding-inline: 120px;
+    padding-block: 12px;
+    display: block;
+}
+
+.image-4{
+    display: block;
+    width: 60px;
+    height: 60px;
+    margin-inline: 0px;
+    margin-top: 100px;
+    border-radius: 100px;
+    display: inline-block;
+}
+
+.tweet-text{
+    font-family: arial;
+    font-size: 12px;
+    color: grey;
+    margin-right: 60px;
+    margin-left: 30px;
+    display: inline-block;
+}
+
+.tweet-button{
+    background-color: rgb(50, 159, 249);
+    color: white;
+    border-radius: 60px;
+    border: none;
+    height: 36px;
+    width: 80px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 10px;
+    cursor: pointer;
+}
